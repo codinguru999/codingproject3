@@ -1,0 +1,38 @@
+Output of Program 1
+
+enter size of first arrray5
+enter size of second arrray5
+enter first array3
+4
+6
+2
+7
+enter second array4
+2
+3
+5
+8
+3 4 2 3 5 6 2 7 8 intersaction elements4
+ 
+
+
+Output of Program 2
+
+
+enter the how many number you want to insert6
+enter array4
+6
+8
+3
+9
+4
+enter after how many number you want rotation3
+array after rotation
+3
+9
+4
+4
+6
+8
+ 
+
